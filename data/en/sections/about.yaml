@@ -1,0 +1,63 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Lead Data Scientist
+# your company information
+company:
+  name: Real Analytics
+  url: "https://realanalytics.org/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a trained mathematician trying to educate computers to understand data. I started interrogating data seriously in 2010 when I was trying to build automated trading strategy to beat the US equity market. In 2012, I read my first paper about football analytics and since then I am dedicating most of working hours to this field. I am mostly interested in problems where accurate predictions are required (the outcome of a football game, the final position of the team in a league, ...) and if possible where a strong benchmark is available. After few years in Academia (mainly as a research fellow) and various working experiences (big corporations as well as early stage start-up), I decided recently to work full time on an [ambitious project](https://realanalytics.org/) I started with another academic colleague. Our mission is to make cutting edge research in the field available to decision-makers in football for better recruitment.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "tarak@realanalytics.co.uk"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/tkharrat"
+
+- name: Bitbucket
+  icon: "fab fa-bitbucket"
+  url: "https://bitbucket.org/tkharrat/"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "#"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 95
+  color: "#3fc3c4"
+- name: Communication
+  percentage: 80
+  color: "#3fc3c4"
+- name: Hard Working
+  percentage: 95
+  color: "#3fc3c4"
+- name: Problem Solving
+  percentage: 95
+  color: "#2b2e74"
+- name: Fast Learner
+  percentage: 90
+  color: "#2b2e74"
+- name: Innovation
+  percentage: 95
+  color: "#2b2e74"

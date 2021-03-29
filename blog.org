@@ -1,0 +1,14 @@
+#+TITLE: tkharrat's backyard
+#+AUTHOR: Tarak Kharrat
+#+EMAIL: tarak@realanalytics.co.uk
+#+LANGUAGE: en
+
+#+HUGO_BASE_DIR: .
+#+hugo_section: posts
+#+HUGO_MENU: :menu sidebar
+
+* About this blog
+:PROPERTIES:
+:EXPORT_FILE_NAME: context
+:END:
+test my export

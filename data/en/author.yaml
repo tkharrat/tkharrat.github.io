@@ -1,0 +1,17 @@
+# some information about you
+name: "Tarak Kharrat"
+nickname: "tkharrat"
+image: "images/author/tarak_cartoon.png"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Welcome to"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "tarak@realanalytics.co.uk"
+
+# a summary of what you do
+summary:
+- I am a mathematician and a data scientist
+- I work mostly with football data
+- I think I can predict the future (given enough data)

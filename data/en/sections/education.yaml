@@ -1,0 +1,31 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Ph.D in Statistics
+  icon: fa-square-root-alt
+  timeframe: 2012-2015
+  institution:
+    name: University of Manchester
+    url: "https://www.maths.manchester.ac.uk/"
+  publications: #(optional)
+  - title: "Deep soccer analytics: learning an action-value function for evaluating soccer players (2020)"
+    url: "https://doi.org/10.1007/s10618-020-00705-9"
+  - title: "Flexible Regression Models for Count Data Based on Renewal Processes: The Countr Package (2019)"
+    url: "https://www.jstatsoft.org/article/view/v090i13"
+  - title: "Plus-Minus Player Ratings for Soccer (2019)"
+    url: "https://doi.org/10.1016/j.ejor.2019.11.026"
+  - title: "Event count distributions from renewal processes: fast computation of probabilities (2018)"
+    url: "https://doi.org/10.1093/imaman/dpx008"
+  - title: "A bivariate Weibull count model for forecasting association football scores (2017)"
+    url: "https://doi.org/10.1016/j.ijforecast.2016.11.006"
+  - title: "Quasi-resonances in sound-insulating coatings (2012)"
+    url: "https://doi.org/10.1016/j.jsv.2012.05.029"
