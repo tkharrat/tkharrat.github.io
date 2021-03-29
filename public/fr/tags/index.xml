@@ -5,6 +5,10 @@
     <link>https://tkharrat.github.io/fr/tags/</link>
     <description>Recent content in Tags on tkharrat&#39;s Backyard</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://tkharrat.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    
+	<atom:link href="https://tkharrat.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

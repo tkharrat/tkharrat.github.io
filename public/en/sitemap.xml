@@ -3,6 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tkharrat.github.io/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>https://tkharrat.github.io/posts/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tkharrat.github.io/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://tkharrat.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tkharrat.github.io/"
+                />
+  </url>
+  
+  <url>
     <loc>https://tkharrat.github.io/posts/context/</loc>
   </url>
   
@@ -21,7 +47,12 @@
   </url>
   
   <url>
-    <loc>https://tkharrat.github.io/posts/</loc>
+    <loc>https://tkharrat.github.io/notes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tkharrat.github.io/search/</loc>
+    <priority>0.1</priority>
   </url>
   
   <url>
@@ -35,20 +66,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://tkharrat.github.io/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tkharrat.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://tkharrat.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tkharrat.github.io/"
                 />
   </url>
   
