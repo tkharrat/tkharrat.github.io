@@ -1,4 +1,4 @@
-baseURL: https://tkharrat.info
+baseURL: https://tkharrat.github.io
 languageCode: en-gb
 title: tkharrat's Backyard
 
@@ -50,7 +50,7 @@ params:
     favicon: /images/site/RA3.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/tkharrat/profile.git
+  gitRepo: https://github.com/tkharrat/tkharrat.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
