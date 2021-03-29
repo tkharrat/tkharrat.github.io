@@ -36,8 +36,6 @@ outputs:
 # Enable global emoji support
 enableEmoji: true
 
-relativeurls: true
-
 # Site parameters
 params:
   # Background image of the landing page
